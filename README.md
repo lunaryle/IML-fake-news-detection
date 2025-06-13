@@ -1,4 +1,4 @@
-## [Group 21] Context and Metadata-Aware Political Fake News Detection
+## [Group 20] Context and Metadata-Aware Political Fake News Detection
 
 ### Dataset
 - `PolitiFact_factcheck_dataset.json` [[SOURCE]](https://www.kaggle.com/datasets/rmisra/politifact-fact-check-dataset)
